@@ -1,0 +1,93 @@
+.main_divtag{
+  background-color: rgb(27, 105, 158);
+  width: 482px;
+  height: 551px;
+  margin-left: 600px;
+  margin-top: 100px;
+  padding-left: 100px;
+   padding: 25px; 
+  padding-top: 25px;
+  position: relative;
+  bottom:50px;
+  right: 180px;
+} 
+
+h2{
+  color: white;
+  padding-bottom: 25px;
+ margin-left: 28px;
+}
+
+.box{
+  font-size: 20px;
+  background-color: white;
+  width: 400px;
+  padding: 50px;
+  height: 400px;
+  padding-bottom: 25px;
+  border-radius: 5px;
+ 
+  
+}
+
+.box2{
+  font-size: 20px;
+  background-color: white;
+  width: 400px;
+  padding: 30px;
+   height: 400px; 
+  border-radius: 5px;
+  margin-left: 10px;
+  
+  
+}
+
+.container input{
+  width: 300px;
+  padding: 12px;
+  background-color: rgb(248, 245, 245);  
+
+}
+
+.btn input{
+  width: 280px;
+  background-color: green;
+  font-size: 15px;
+  color: white;
+  border-radius: 5px;
+  height: 40px; 
+   margin-top: 0px; 
+   align-items: center;
+   
+    text-align: center;
+   margin-bottom: 20px;
+
+  
+}
+
+
+.btn input:hover{
+background-color: darkgreen;
+}
+
+.form-control{
+  height: 40px;
+}
+
+.lab{
+  font-size: 12px; 
+   margin-left: 100px; 
+  
+   padding-right: 20px; 
+ }
+#ss{
+  margin-right: 100px;
+} 
+
+.btn{
+  height: 30px;
+} 
+
+ /* body {
+  background: -webkit-radial-gradient(top left, #90f6fb, #2c3283);
+}  */
